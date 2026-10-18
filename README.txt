@@ -1,4 +1,4 @@
-# Malayali Hero v2.1 - FINAL with AdMob + app-ads.txt
+# Malayali Hero v2.0 - FINAL with AdMob + app-ads.txt
 
 Username: saneeshg274-art
 Repo: Malayali-Hero-ver.2.0
